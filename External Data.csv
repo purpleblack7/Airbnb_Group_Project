@@ -1,0 +1,15 @@
+﻿city_name,crime_index,median_household_income,pop_below_poverty_line,pop_density
+Austin,302.3,63720,15.4,3286
+Boston,257.8,62020,20.5,14346
+Chicago,433.2,52500,20.6,11835
+Denver,436.7,60100,15.1,4753
+Los Angeles,337.2,54500,20.4,8491
+Nashville,325,52860,17.2,1411
+New Orleans,685.5,38720,25.4,2303
+New York,221.4,57780,19.6,27547
+Portland,431,61530,16.2,4907
+San Diego,208.3,71530,14.5,4379
+San Franciso,453.6,96260,11.7,18807
+Seattle,396.6,79560,12.5,8978
+Washington DC,490.9,77650,17.4,11560
+Other,383.0384615,63748,17.4,9431
